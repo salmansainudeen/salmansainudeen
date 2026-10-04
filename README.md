@@ -29,4 +29,5 @@ Python (basic, moving toward automation) · CompTIA A+ · Google Cybersecurity C
 ---
 
 📍 Kochi / Ernakulam — open to junior penetration testing and SOC roles
+🌐 [salmansainudeen.github.io](https://salmansainudeen.github.io) — portfolio & write-ups
 🔗 [LinkedIn](https://linkedin.com/in/salmansainudeen)
