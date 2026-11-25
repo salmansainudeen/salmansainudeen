@@ -1,30 +1,35 @@
 ## Salman Sainudeen
 
-**Penetration testing · SOC · Kerala, India**
+**SOC analyst (L1) · Penetration testing · Kerala, India**
 
-Advanced Penetration Testing diploma — eHackify, Ernakulam (2025–26).
-BCA, Mahatma Gandhi University. Working toward a first role in offensive security.
+TryHackMe SOC Level 1 · Advanced Penetration Tester (EAPT, eHackify) · BCA, Mahatma Gandhi University.
+Six-month cybersecurity internship at eHackify. Looking for a first SOC L1 or junior pentest role.
 
-Building in public: rebuilding my detection lab and documenting web application
-security work as I go, rather than waiting until it's polished.
+Building in public: I run my own detection lab, attack it, and document what fires and what doesn't.
+
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [**detection-lab**](https://github.com/salmansainudeen/detection-lab) | Wazuh SIEM + Sysmon home lab: 6 Wazuh and Sigma rules mapped to MITRE ATT&CK, real alert triage and a tuning log |
+| [**brute-force-hunter**](https://github.com/salmansainudeen/brute-force-hunter) | Python: finds SSH brute force, password sprays and success-after-failure logins in `auth.log` |
+| [**ioc-checker**](https://github.com/salmansainudeen/ioc-checker) | Python: checks IPs, domains and hashes on AbuseIPDB and VirusTotal, outputs a ticket-ready CSV |
+| [**wr840n-recon**](https://github.com/salmansainudeen/wr840n-recon) | Passive recon and login-crypto study of a router I own |
+| [**recon-agent-lab**](https://github.com/salmansainudeen/recon-agent-lab) | A guardrailed AI agent limited to read-only recon on authorised targets |
 
 ### What I'm working on now
 
-- **Home SOC lab** — ELK Stack + Splunk, with correlation rules for brute-force
-  attempts, privilege escalation and port scanning
-- **PortSwigger Web Security Academy** — write-ups by vulnerability class
-- **eJPT** — targeting November 2026
+- **Detection lab:** testing each detection with a real attack, one at a time
+- **Python for SOC automation:** working through a SOC scripting workbook
+- **PortSwigger Web Security Academy:** labs by vulnerability class
 
 ### Hands-on
 
-`Burp Suite` `Nmap` `Wireshark` `Metasploit` `Nessus` `Hydra` `Impacket`
-`CrackMapExec` `Kali Linux`
+`Wazuh` `Sysmon` `Splunk` `ELK Stack` `Sigma` `MITRE ATT&CK` `Windows Event Logs`
 
-`Splunk` `ELK Stack` `Sysmon` `Snort` `MISP`
+`Burp Suite` `Nmap` `Nessus` `Metasploit` `Wireshark` `Hydra` `Impacket` `Kali Linux`
 
-### Learning
-
-Python (basic, moving toward automation) · CompTIA A+ · Google Cybersecurity Certificate
+`Python` `Bash` `Active Directory` `Linux (Arch)`
 
 ### Contributions
 
@@ -36,6 +41,6 @@ Python (basic, moving toward automation) · CompTIA A+ · Google Cybersecurity C
 
 ---
 
-📍 Kochi / Ernakulam — open to junior penetration testing and SOC roles
+📍 Kerala, India — open to SOC L1 and junior penetration testing roles (India on-site/hybrid or remote, from January 2027)
 🌐 [salmansainudeen.github.io](https://salmansainudeen.github.io) — portfolio & write-ups
 🔗 [LinkedIn](https://linkedin.com/in/salmansainudeen)
