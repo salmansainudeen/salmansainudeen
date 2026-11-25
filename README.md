@@ -26,6 +26,14 @@ security work as I go, rather than waiting until it's polished.
 
 Python (basic, moving toward automation) · CompTIA A+ · Google Cybersecurity Certificate
 
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmansainudeen/salmansainudeen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmansainudeen/salmansainudeen/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/salmansainudeen/salmansainudeen/output/github-snake.svg" />
+</picture>
+
 ---
 
 📍 Kochi / Ernakulam — open to junior penetration testing and SOC roles
